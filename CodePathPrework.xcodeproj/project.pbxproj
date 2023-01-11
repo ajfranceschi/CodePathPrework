@@ -44,6 +44,7 @@
 		A9FB82DB296DD61100931D69 = {
 			isa = PBXGroup;
 			children = (
+				A9FB82FB296E730900931D69 /* README.md */,
 				A9FB82E6296DD61100931D69 /* CodePathPrework */,
 				A9FB82E5296DD61100931D69 /* Products */,
 			);
@@ -67,7 +68,6 @@
 				A9FB82F0296DD61300931D69 /* Assets.xcassets */,
 				A9FB82F2296DD61300931D69 /* LaunchScreen.storyboard */,
 				A9FB82F5296DD61300931D69 /* Info.plist */,
-				A9FB82FB296E730900931D69 /* README.md */,
 				A9FB82FD296E74E000931D69 /* CodePathPrework.gif */,
 			);
 			path = CodePathPrework;
