@@ -13,6 +13,8 @@
 		A9FB82EF296DD61100931D69 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A9FB82ED296DD61100931D69 /* Main.storyboard */; };
 		A9FB82F1296DD61300931D69 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A9FB82F0296DD61300931D69 /* Assets.xcassets */; };
 		A9FB82F4296DD61300931D69 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A9FB82F2296DD61300931D69 /* LaunchScreen.storyboard */; };
+		A9FB82FC296E730900931D69 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = A9FB82FB296E730900931D69 /* README.md */; };
+		A9FB82FE296E74E000931D69 /* CodePathPrework.gif in Resources */ = {isa = PBXBuildFile; fileRef = A9FB82FD296E74E000931D69 /* CodePathPrework.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		A9FB82F0296DD61300931D69 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A9FB82F3296DD61300931D69 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A9FB82F5296DD61300931D69 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A9FB82FB296E730900931D69 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		A9FB82FD296E74E000931D69 /* CodePathPrework.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = CodePathPrework.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				A9FB82F0296DD61300931D69 /* Assets.xcassets */,
 				A9FB82F2296DD61300931D69 /* LaunchScreen.storyboard */,
 				A9FB82F5296DD61300931D69 /* Info.plist */,
+				A9FB82FB296E730900931D69 /* README.md */,
+				A9FB82FD296E74E000931D69 /* CodePathPrework.gif */,
 			);
 			path = CodePathPrework;
 			sourceTree = "<group>";
@@ -127,6 +133,8 @@
 			files = (
 				A9FB82F4296DD61300931D69 /* LaunchScreen.storyboard in Resources */,
 				A9FB82F1296DD61300931D69 /* Assets.xcassets in Resources */,
+				A9FB82FC296E730900931D69 /* README.md in Resources */,
+				A9FB82FE296E74E000931D69 /* CodePathPrework.gif in Resources */,
 				A9FB82EF296DD61100931D69 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
