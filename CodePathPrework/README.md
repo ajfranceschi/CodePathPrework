@@ -6,7 +6,7 @@ This is iOS app is the result of the prework required by the CodePath applicatio
 
 ### App Walk-though
 
-<!-- <img src="YOUR_GIF_URL_HERE" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
+<img src="/CodePathPrework/CodePathPrework/CodePathPrework.gif"
 
 ### Required Features
 
