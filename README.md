@@ -6,7 +6,7 @@ This is iOS app is the result of the prework required by the CodePath applicatio
 
 ### App Walk-though
 
-<img src="/CodePathPrework/CodePathPrework/CodePathPrework.gif">
+<img src="https://github.com/ajfranceschi/CodePathPrework/blob/main/CodePathPrework/CodePathPrework.gif?raw=true">
 
 ### Required Features
 
